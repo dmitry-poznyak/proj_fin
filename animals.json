@@ -1,0 +1,11 @@
+{
+    "1": {
+        "name": "Mouse",
+        "birth_date": "2024/01/01",
+        "commands": [
+            "qwe"
+        ],
+        "animal_kind": "unknown",
+        "animal_type": "mouse"
+    }
+}
